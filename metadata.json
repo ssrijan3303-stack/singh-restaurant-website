@@ -1,0 +1,6 @@
+{
+  "name": "Singh Restaurant",
+  "description": "5-Star Luxury Fine Dining in Varanasi, Uttar Pradesh. Authentic Awadhi & Banarasi culinary heritage with Ganges views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
