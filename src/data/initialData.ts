@@ -2,10 +2,10 @@ import { MenuItem, DiningSpace, Reservation, GalleryItem, PromoBanner, ReviewIte
 
 // Generated asset paths
 export const ASSETS = {
-  hero: '/src/assets/images/hero_singh_restaurant_1791139523547.jpg',
-  rooftop: '/src/assets/images/dining_ganges_rooftop_1791139534640.jpg',
-  biryani: '/src/assets/images/dish_awadhi_biryani_1791139546524.jpg',
-  galouti: '/src/assets/images/dish_galouti_kebab_1791139558240.jpg',
+  hero: '/images/hero_singh_restaurant_1791139523547.jpg',
+  rooftop: '/images/dining_ganges_rooftop_1791139534640.jpg',
+  biryani: '/images/dish_awadhi_biryani_1791139546524.jpg',
+  galouti: '/images/dish_galouti_kebab_1791139558240.jpg',
 };
 
 export const INITIAL_MENU_ITEMS: MenuItem[] = [
